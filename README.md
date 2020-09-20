@@ -1,5 +1,7 @@
-TypeScript Hello World Demo
+TypeScript Typed Path Demo
 ===========================
+
+使用typed-path这个库来定义一个typed path，可以对path进行typing check
 
 ```
 npm install
